@@ -33,7 +33,7 @@
  * ---------------------------------------------------------------------
  */
 
-namespace Features;
+namespace Glpi\Features;
 
 use CommonITILTask;
 use DateInterval;
